@@ -1,7 +1,7 @@
 # incident-angle-of-sun-and-inclined-surface
-This Python script calculates and plots incident angles of the Sun relative to inclined surfaces for a given period of time and given coordinates. 
+This Python script calculates and plots incident angles of the Sun relative to inclined surfaces and Extraterrestrial solar radiation on inclined surfaces for a given period of time and given coordinates. 
 
-following C.D. WHITEMAN and K.J. ALLWINE, Pacific Northwest Laboratory, Richland, WA 99352: 
+Following C.D. WHITEMAN and K.J. ALLWINE, Pacific Northwest Laboratory, Richland, WA 99352: 
 Whiteman, C. D. and K. J. Allwine (1986). "Extraterrestrial solar radiation on inclined surfaces." Environmental Software 1(3): 164-169.
 
 -------------------------------------------------------
