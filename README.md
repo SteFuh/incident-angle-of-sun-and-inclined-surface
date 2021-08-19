@@ -5,7 +5,8 @@ following C.D. WHITEMAN and K.J. ALLWINE, Pacific Northwest Laboratory, Richland
 Whiteman, C. D. and K. J. Allwine (1986). "Extraterrestrial solar radiation on inclined surfaces." Environmental Software 1(3): 164-169.
 
 -------------------------------------------------------
---  INPUTS: LONG =(-180 to 180 DEG), LAT=(-90 to 90 DEG),
+--  INPUTS: 
+-    LONG =(-180 to 180 DEG), LAT=(-90 to 90 DEG),
 -    AZ = slope azimuth angle (0 to 359), IN = slope in-
 -    clination angle (0 to 90 DEG), SC = solar constant,
 --   IHR = hour (0 to 23), MM = minute(00 to 59),
